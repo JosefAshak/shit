@@ -1,0 +1,36 @@
+
+state={
+	id=1138
+	name="STATE_1138"
+	resources={
+		aluminium=20.000
+		power=3.000
+	}
+
+	history={
+		owner = GRE
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			7127 1 
+		}
+		victory_points = {
+			16187 1 
+		}
+		victory_points = {
+			1205 1 
+		}
+		add_core_of = GRE
+
+	}
+
+	provinces={
+		976 1109 1205 7127 11895 12001 16183 16187 
+	}
+	manpower=781535
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

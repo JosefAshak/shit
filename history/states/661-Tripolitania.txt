@@ -1,0 +1,39 @@
+
+state={
+	id=661
+	name="STATE_661"
+	resources={
+		oil=8.000
+		power=4.000
+	}
+
+	history={
+		owner = ITA
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = LBA
+		victory_points = {
+			1189 5 
+		}
+		victory_points = {
+			4051 5 
+		}
+		victory_points = {
+			12039 1 
+		}
+		victory_points = {
+			14403 1 
+		}
+
+	}
+
+	provinces={
+		4051 4117 4962 7154 10037 10067 10884 11940 14401 14403 
+	}
+	manpower=368022
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}
