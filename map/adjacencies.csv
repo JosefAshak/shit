@@ -138,7 +138,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 44;11050;sea;5792;-1;-1;-1;-1;;Northern-Straits
 22;3016;sea;5792;-1;-1;-1;-1;;Northern-Straits
 6062;6205;sea;3590;-1;-1;-1;-1;;West Scottish-Strait
-7003;9941;sea;7226;-1;-1;-1;-1;;Dodecanes1-Strait
 7304;4360;sea;8614;-1;-1;-1;-1;;New Foundland-Strait
 5407;5382;;-1;-1;-1;-1;-1;GIBRALTAR_STRAIT;Gibraltar North
 5407;2400;;-1;-1;-1;-1;-1;GIBRALTAR_STRAIT;Gibraltar South
@@ -324,7 +323,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 15105;15104;sea;15106;-1;-1;-1;-1;;beagle channel islands
 14889;12954;sea;5424;-1;-1;-1;-1;;chiloe-mainland
 10122;10007;sea;7002;-1;-1;-1;-1;;Dodecanes3-Strait
-914;10203;sea;5864;-1;-1;-1;-1;;corfu
 9845;9793;sea;8871;-1;-1;-1;-1;;balerics 2
 9793;7114;sea;8845;-1;-1;-1;-1;;balerics 1
 10502;10515;sea;5951;-1;-1;-1;-1;;uruguay river
@@ -339,7 +337,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 10116;12462;sea;6633;-1;-1;-1;-1;;chilika lake india
 11911;11968;sea;5873;-1;-1;-1;-1;;ganges delta
 970;15351;sea;5336;-1;-1;-1;-1;;lisbon
-1106;12001;sea;5913;-1;-1;-1;-1;;Lefkada
 5119;7782;sea;13163;-1;-1;-1;-1;;lake winnipeg
 4189;10062;sea;5269;-1;-1;-1;-1;;hong kong macau ferry
 11138;165;sea;13104;-1;-1;-1;-1;;finnish lake
@@ -363,5 +360,4 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 3573;11715;sea;588;-1;-1;-1;-1;;dnieper lake crossing
 15897;1091;sea;5345;-1;-1;-1;-1;;penghu island crossing
 11965;6449;sea;2871;-1;-1;-1;-1;;channel islands link
-11833;15192;sea;5579;-1;-1;-1;-1;;elba link
 -1;-1;;-1;-1;-1;-1;-1;-1
